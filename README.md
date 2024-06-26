@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @blach-u
 - 👀 I’m interested in python, javascript, java
-- 🌱 I’m currently learning python and java
-- 📫 How to reach me: michal.blach1@outlook.com
+- 🌱 I’m currently learning python and javascript
+- 📫 How to reach me: michal.blachu14@gmail.com
